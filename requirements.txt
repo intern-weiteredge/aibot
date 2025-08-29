@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pandas>=2.0
+sentence-transformers>=2.2.2
+openai>=1.40.0
+python-dotenv>=1.0.1
+numpy>=1.26
+
